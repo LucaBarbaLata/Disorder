@@ -1,9 +1,23 @@
-# Disorder
-A ransomware made in python.
+# 🌀 Disorder
 
-This ransomware was created for fun, not for malicious use.
-This means that the creator of this virus (Me) is not responsible for any damage done by this virus. Use it at your own risk.
-Also to test this virus you need to turn on the internet.
-There is curently no decryptor.
+⚠️ **Project Status:**  
+This project is **no longer maintained** and will not receive updates or support.
 
-Oh and under no circumstance. DO NOT RUN IT ON YOUR REAL PC. Instead use a Virtual Machine or sum
+---
+
+## 📌 What Does Disorder Do?
+
+Disorder is a Python script that simulates ransomware behavior by encrypting files in a given directory. It renames and encrypts files, making them inaccessible without a decryption key. This project is meant for educational purposes only — to understand how ransomware can operate at a basic level.
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool is **for educational and research purposes only**.  
+- **Do NOT use Disorder on any important data or production systems.**  
+- Running this script can lead to permanent data loss, and no decryption tool is provided.  
+- Use it responsibly and at your own risk.
+
+---
+
+Thanks for checking out Disorder! Stay ethical and safe! 🔐✨
